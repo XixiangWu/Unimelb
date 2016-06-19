@@ -28,7 +28,7 @@ traverse(v):
 
 ## DFS Edge Classification
 
-![Screen Shot 2016-06-12 at 3.25.17 PM.png]()
+![Screen Shot 2016-06-12 at 3.25.17 PM.png](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Tree%20edge.png)
 <br />
 
 ## Pre and Post Number in DFS
@@ -79,9 +79,9 @@ an incidence matrix is a matrix that shows the relationship between two classes 
 ## Recurrence relations
 A subproblems of size $n/b$ and then combining these answers in $O(n^d)$ time, for some $a,b,d > 0$ (in the multiplication algorithm, $a = 3$, $b = 2$, and $d = 1$). Their running time can therefore be captured by the equation $T(n) = aT([n/b]) + O(n^d).$
 <br / >
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic3.png)
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Master%20theorem.png)
 
-![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Pic1.png
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Binary%20Search.png
 )
 
 <br />
@@ -101,9 +101,9 @@ exactly once.
 An **Euler path** starts and ends at <font color="blue">different</font>  vertices.
 An **Euler circuit** starts and ends at the <font color="green">same</font>  vertex
 
-![Screen Shot 2016-06-12 at 2.47.47 PM.png](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Pic4.png)
+![Screen Shot 2016-06-12 at 2.47.47 PM.png](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Euler%20Path.png)
 
-![Screen Shot 2016-06-12 at 2.47.57 PM.png](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic5.png)
+![Screen Shot 2016-06-12 at 2.47.57 PM.png](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Euler%20circuit.png)
 
 <br />
 
@@ -149,17 +149,15 @@ $-log 2 (p)$ = ${1, 1.6, 2.6}$
 code = {$0, 10, 11$}
 bps = $(6*1 + 4*2 + 2*2)/12 = 1.5$
 
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Screen Shot 2016-06-13 at 4.38.49 PM.png
-)
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Shannon's%20entropy.png)
 
 #### Shannon-Fano algorithm
 Divide in half and join recursively
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Screen Shot 2016-06-13 at 4.41.12 PM.png)
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Shannon%20fano.png)
 <br />
 
 ## Huffman encoding
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Screen Shot 2016-06-13 at 4.51.11 PM.png
-)
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Huffman%20encoding.png)
 
 #### Bounds
 for an N symbol message, the codewords can be at most (log φ N) − 1 ≈ (1.44 log 2 N) − 1 bits long.
@@ -202,8 +200,7 @@ Complexity: O((V+E)log V)
 ## Bellman-Ford algorithm 
 find shortest path when negative edge exists
 
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/4.png
-)
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Bellman-Ford.png)
 
 ## RSA
 c = encrypted data
