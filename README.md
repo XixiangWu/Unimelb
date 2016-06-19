@@ -2,5 +2,5 @@
 
 Code|Subject name|Status
 --- | ---------- | ----
-COMP200007 | Design of Algorithms | [Avaliable]
-INFO200002 | Foundations of Informatics | [Not avaliable]
+COMP20007 | Design of Algorithms | [Avaliable]
+INFO20002 | Foundations of Informatics | [Not avaliable]
