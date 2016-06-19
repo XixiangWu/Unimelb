@@ -1,6 +1,7 @@
 # Notes for Unimelb students
 
-![](https://allfoodequipment.com.au/images/uploads/uni-of-melb-logo-y4ybanux_new.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/1/10/University_of_Melbourne_logo.png)
+
 Contributor: Xixiang Wu
 
 Code|Subject name|Status of Note
