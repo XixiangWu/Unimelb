@@ -1,7 +1,8 @@
-# Notes for Unimelb students major in Computer Science
+# Notes for Unimelb students 
 
 ![](https://upload.wikimedia.org/wikipedia/en/1/10/University_of_Melbourne_logo.png)
 
+Major: Computer Science
 Contributor: Xixiang Wu
 
 Code|Subject name|Status of Note
