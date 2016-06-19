@@ -81,7 +81,7 @@ A subproblems of size $n/b$ and then combining these answers in $O(n^d)$ time, f
 <br / >
 ![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic3.png)
 
-![](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic1.png
+![](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Pic1.png
 )
 
 <br />
@@ -101,7 +101,7 @@ exactly once.
 An **Euler path** starts and ends at <font color="blue">different</font>  vertices.
 An **Euler circuit** starts and ends at the <font color="green">same</font>  vertex
 
-![Screen Shot 2016-06-12 at 2.47.47 PM.png](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic4.png)
+![Screen Shot 2016-06-12 at 2.47.47 PM.png](https://raw.githubusercontent.com/XixiangWu/Unimelb/master/Design%20of%20Algorithms/Everything%20for%20Revising/resources/Pic4.png)
 
 ![Screen Shot 2016-06-12 at 2.47.57 PM.png](/Users/wuxixiang/Desktop/Everything for Revising/resources/Pic5.png)
 
