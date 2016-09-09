@@ -4,7 +4,10 @@
 
 Major: Computer Science
 
-Contributor: Xixiang Wu
+Contributor: Xixiang Wu, Xiaoliang Yu
+
+Note: We suggest you to fork this repository. Read and modify it by using Atom for a better experience.
+      Dont forget to give us a star, we are looking forward to getting your contribution :P
 
 Code|Subject name|Status of Note|Issues
 --- | ---------- | ---- | ---
