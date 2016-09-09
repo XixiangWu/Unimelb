@@ -16,4 +16,4 @@ INFO20002 | Foundations of Informatics | [Avaliable] | no week 9 to 11 slides
 COMP30019 | Graphics and Interaction | [Avaliable] | 1l1
 COMP30020 | Declarative Programming | [Unavaliable] | -
 INFO20003 | Database System | [Unavaliable] | -
-SWEN20003 | Object Oriented Software Development | [Avaliable] | 1l2
+SWEN20003 | Object Oriented Software Development | [Avaliable] | 2l1
