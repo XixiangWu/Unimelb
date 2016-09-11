@@ -178,7 +178,7 @@ z = Math.cos(y);
 
 #### Arithmetic Operators and Expressions
 If different types are combined in an expression, then the resulting type is the right-most type on the following list that is found within the expression
-![Expression](/images/2016/09/Screen Shot 2016-09-09 at 4.19.55 PM.png)
+![Assignment Compatibility](images/2016/09/Screen Shot 2016-09-09 at 4.19.55 PM.png)
 
 **NOT** Exception: If the type produced should be byte or short (according to the rules above), then the type produced will actually be an int
 
